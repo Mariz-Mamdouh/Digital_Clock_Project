@@ -5,6 +5,6 @@
 1) STM32 microcontroller development board (e.g., STM32F103C8T6).
 2) ST7735 TFT LCD display.
 ## Features
-1)Display Current Time(hours,minutes,seconds).
-2)Display Current date(day,month,year).
-3)Utilizes SPI communication for interfacing with the TFT LCD display.
+1) Display Current Time(hours,minutes,seconds).
+2) Display Current date(day,month,year).
+3) Utilizes SPI communication for interfacing with the TFT LCD display.
